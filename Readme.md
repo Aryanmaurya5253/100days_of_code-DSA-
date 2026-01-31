@@ -3,8 +3,21 @@
 > **"Consistency beats intensity. One problem a day for 100 days leads to massive improvement."**
 
 ![Language](https://img.shields.io/badge/Language-C-blue.svg)
-![Status](https://img.shields.io/badge/Status-In%20Progress-green.svg)
-![Days](https://img.shields.io/badge/Days-0%2F100-orange)
+![Start Date](https://img.shields.io/badge/Start%20Date-Feb%201%2C%202026-brightgreen)
+![End Date](https://img.shields.io/badge/End%20Date-May%2011%2C%202026-red)
+
+---
+
+## 📊 Challenge Dashboard
+
+| 📅 **Start Date** | 🏁 **End Date** | 🔥 **Current Streak** | ⏳ **Progress** |
+| :---: | :---: | :---: | :---: |
+| **Feb 01, 2026** | **May 11, 2026** | **0 Days** | **0 / 100** |
+
+### 🚧 Current Status
+`[░░░░░░░░░░░░░░░░░░░░] 0% Complete`
+
+---
 
 ## 📖 Overview
 
