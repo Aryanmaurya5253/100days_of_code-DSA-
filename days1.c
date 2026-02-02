@@ -28,16 +28,17 @@ int main()
 {
     int n, pos, x;
     int arr[100];
-
+    printf("Enter the number of elements: ");
     scanf("%d", &n);
 
     for (int i = 0; i < n; i++)
     {
+        printf("Enter %d element :", i + 1);
         scanf("%d", &arr[i]);
     }
-
+    printf("Enter element postion you want to add: ");
     scanf("%d", &pos);
-
+    printf("Enter element you want to add: ");
     scanf("%d", &x);
 
     for (int i = n; i >= pos; i--)
@@ -46,7 +47,7 @@ int main()
     }
 
     arr[pos - 1] = x;
-
+    printf("The elements are  : ");
     for (int i = 0; i <= n; i++)
     {
         printf("%d ", arr[i]);
