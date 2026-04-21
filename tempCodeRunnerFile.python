@@ -1,0 +1,6 @@
+s1 = set(input("Enter fruits for set1: ").split())
+s2 = set(input("Enter fruits for set2: ").split())
+
+print("Common:", s1 & s2)
+print("Only in s1:", s1 - s2)
+print("Total fruits:", len(s1 | s2))
