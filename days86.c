@@ -30,3 +30,4 @@ int main() {
 
     return 0;
 }
+// This program calculates the integer square root of a given number using a binary search algorithm. The function `intgerSquareRoot` takes an integer `n` as input and returns the largest integer `x` such that `x*x <= n`. The main function prompts the user for input and displays the result.
