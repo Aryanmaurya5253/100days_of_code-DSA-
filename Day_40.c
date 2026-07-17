@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 // Function to swap two elements
+// swapping function
 void swap(int *a, int *b) {
     int temp = *a;
     *a = *b;
