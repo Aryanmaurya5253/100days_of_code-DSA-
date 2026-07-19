@@ -3,6 +3,7 @@
 // Function to swap two elements
 // swapping function
 // function
+//swap function
 void swap(int *a, int *b) {
     int temp = *a;
     *a = *b;
