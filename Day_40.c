@@ -1,5 +1,5 @@
 #include <stdio.h>
-
+//function
 // Function to swap two elements
 // swapping function
 // function is for swapping
