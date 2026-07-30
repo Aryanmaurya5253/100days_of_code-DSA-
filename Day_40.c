@@ -1,6 +1,7 @@
 #include <stdio.h>
 //function
 //swap
+//func
 //swap
 //swap
 // Function to swap two elements
